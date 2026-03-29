@@ -1,104 +1,93 @@
----
-
-# CyberGuard - Flutter Security & VPN App
+# FreeVPN App Flutter
 
 ![Status](https://img.shields.io/badge/Status-Active-brightgreen)
-![Dart](https://img.shields.io/badge/Dart-100%25-brightgreen)
+![Dart](https://img.shields.io/badge/dart-100%25-brightgreen)
 ![Flutter](https://img.shields.io/badge/Flutter-Cross%20Platform-blue)
 
-⭐ **Note:** This project is for **educational and learning purposes**. It includes a basic **VPN integration using OpenVPN** for demonstration. Publishing to Play Store or App Store requires additional review and permissions.
+⭐ **Note:** This project is for **learning & educational purposes** and uses an **older** version of the OpenVPN SDK. If you plan to publish this on the **Play Store**, it may get **rejected**.
 
 ---
 
-## 📱 CyberGuard: Security Scanner & VPN Tool
+## 📱 Simple, Lightweight & Free VPN App
 
-**CyberGuard** is a lightweight Flutter application designed to scan and protect your device. Features include:
-
-* File scanning for potential threats
-* Application scanning for vulnerabilities
-* Network monitoring and security checks
-* Link safety verification
-* System and device analysis
-* VPN connection via OpenVPN for secure browsing
+A lightweight, easy-to-use VPN application built with Flutter, offering secure and private connections via the OpenVPN protocol.
 
 ---
 
-## 📦 APKs (Demo)
+## 📦 APKs:
 
-* **Arm APK:**
-  [Download Arm APK](https://github.com/451646464/CyberGuard---Flutter-Security-Scanner/blob/main/sample%20apk/CyberGuard%20%28arm%29.apk)
+- **Arm APK:**  
+  [Download Arm APK](https://github.com/451646464/Flutter-VPN-Application/blob/main/sample%20apk/FreeVPN-App-Arm.apk)  
   *(Supports ARM v7 and v8 devices)*
 
-* **Global APK:**
-  [Download Global APK](https://github.com/451646464/CyberGuard---Flutter-Security-Scanner/blob/main/sample%20apk/CyberGuard%20%28global%29.apk)
+- **Global APK:**  
+  [Download Global APK](https://github.com/451646464/Flutter-VPN-Application/blob/main/sample%20apk/FreeVPN-App-Global.apk)  
   *(Supports all devices)*
 
 ---
 
 ## 📸 Screenshots:
 
+**Actual app looks even better! 😃**
+
+
+
 <kbd>
-  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/1.png" width=30% height=30%/>
-  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/2.png" width=30% height=30%/>
-  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/3.png" width=30% height=30%/>
-  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/4.png" width=30% height=30%/>
+  <img src="https://raw.githubusercontent.com/451646464/Flutter-VPN-Application/main/screenshots/1.png" width="30%" height="30%"/>
+  <img src="https://raw.githubusercontent.com/451646464/Flutter-VPN-Application/main/screenshots/2.png" width="30%" height="30%"/>
+  <img src="https://raw.githubusercontent.com/451646464/Flutter-VPN-Application/main/screenshots/3.png" width="30%" height="30%"/>
+  <img src="https://raw.githubusercontent.com/451646464/Flutter-VPN-Application/main/screenshots/4.png" width="30%" height="30%"/>
 </kbd>
 
+---
 
-> **Note:** The app interface is simple, modern, and optimized for performance.
+## ✨ Features:
+
+- Access many free public servers from [VPN Gate](https://www.vpngate.net/en/).
+- Secure connection using the **OpenVPN protocol**.
+- **No sign-up required**—start using the app instantly.
+- **IP Address Test** feature to verify your VPN connection.
+- Data caching for faster access.
+- Integrated **Google Test Ads** with Firebase for dynamic ad IDs.
+- Modern and clean Material UI.
+- Lightweight and cross-platform support for Android and iOS.
 
 ---
 
-## ✨ Key Features:
+## ⚙️ Google Ads Integration:
 
-* Scan files, apps, and links for potential security threats
-* Monitor network activity for unusual patterns
-* Secure VPN connection using **OpenVPN protocol**
-* System information and device analysis
-* Notifications for detected issues
-* Clean, user-friendly Flutter UI with Material Widgets
-* **Educational use for learning Flutter security & VPN integration**
+This project includes **Google Ads** with Firebase for dynamic ad IDs.  
+To make the ads function correctly, configure Firebase and apply some adjustments.
 
----
-
-## ⚙️ VPN Integration:
-
-CyberGuard includes a **basic VPN feature**:
-
-* Connect to a secure server via **OpenVPN**
-* Test your IP address and verify the VPN connection
-* Lightweight integration for **learning purposes only**
-
-> ⚠️ The VPN feature is **for educational/demo use only**. Use trusted servers.
+Helpful videos for setup:  
+- [Firebase Setup for Ads](https://youtu.be/Bx0ixmpHpMI)  
+- [Remote Config for Ads](https://youtu.be/XkbRhBiSZMU)
 
 ---
 
-## 💡 Notes:
+## 💡 Note:
 
-* Developed by **Rakan Al-Muliki**
-* Focused on **security scanning & VPN concepts** for Flutter learning
-* Handle network and file operations safely
+This project is developed by **Rakan Al-Muliki** and is inspired by OpenVPN-based Flutter apps.  
+It is built for learning, testing, and personal use.
 
 ---
 
-## 💬 Feedback & Suggestions:
+## 💬 Feedback and Suggestions:
 
-For any feedback or contributions:
+For feedback, questions, or suggestions, contact me at:  
 📧 [rakanalmoliki33@gmail.com](mailto:rakanalmoliki33@gmail.com)
 
 ---
 
 ## 🏷️ Keywords
 
-* Flutter Security App
-* Flutter VPN Integration
-* Cyber Security Scanner
-* Flutter OpenVPN
-* Dart Security App
-* Network Monitoring Flutter
-* File & App Scanner
-* Educational Flutter Project
-
----
-# Flutter-VPN-Application
-# Flutter-VPN-Application
+- **Flutter VPN App**
+- **Dart VPN Application**
+- **Free VPN App Flutter**
+- **OpenVPN Flutter**
+- **Cross-Platform VPN App**
+- **Flutter Secure Connection**
+- **Flutter Google Ads Integration**
+- **VPN Gate Free Servers**
+- **VPN App for Android and iOS**
+- **No Signup VPN App**
