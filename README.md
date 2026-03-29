@@ -38,11 +38,12 @@
 ## 📸 Screenshots:
 
 <kbd>
-  <img src="https://github.com/451646464/CyberGuard---Flutter-Security-Scanner/blob/main/screenshots/1.png" width=30% height=30%/>
-  <img src="https://github.com/451646464/CyberGuard---Flutter-Security-Scanner/blob/main/screenshots/2.png" width=30% height=30%/>
-  <img src="https://github.com/451646464/CyberGuard---Flutter-Security-Scanner/blob/main/screenshots/3.png" width=30% height=30%/>
-  <img src="https://github.com/451646464/CyberGuard---Flutter-Security-Scanner/blob/main/screenshots/4.png" width=30% height=30%/>
+  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/1.png" width=30% height=30%/>
+  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/2.png" width=30% height=30%/>
+  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/3.png" width=30% height=30%/>
+  <img src="https://github.com/451646464/Flutter-VPN-Application/blob/main/screenshots/4.png" width=30% height=30%/>
 </kbd>
+
 
 > **Note:** The app interface is simple, modern, and optimized for performance.
 
